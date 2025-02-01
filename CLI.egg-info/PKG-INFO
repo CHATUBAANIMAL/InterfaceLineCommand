@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: CLI
+Version: 0.1.0
+Summary: Uma aplicação CLI que compara respostas de IA's.
+Author-email: Marcos Vinicius <vinicios.dfg@gmail.com>
+Description-Content-Type: text/markdown
+Requires-Dist: click>=8.1.8

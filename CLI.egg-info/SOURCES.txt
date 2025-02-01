@@ -1,0 +1,16 @@
+pyproject.toml
+setup.py
+CLI.egg-info/PKG-INFO
+CLI.egg-info/SOURCES.txt
+CLI.egg-info/dependency_links.txt
+CLI.egg-info/entry_points.txt
+CLI.egg-info/requires.txt
+CLI.egg-info/top_level.txt
+abstract_api_creator/__init__.py
+abstract_api_creator/api_factory.py
+abstract_api_creator/gemini_factory.py
+abstract_api_creator/gpt3_factory.py
+abstract_api_creator/teste.py
+command/__init__.py
+command/execute.py
+command/receptor_gemini.py
